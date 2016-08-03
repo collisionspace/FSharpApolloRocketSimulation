@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="RocketSimulation/RocketSimulation.fsproj">
+  <MonoDevelop.Ide.ItemProperties.RocketSimulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RocketSimulation/Chapter2.fs">
+    <Files>
+      <File FileName="RocketSimulation/Chapter2.fs" Line="283" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

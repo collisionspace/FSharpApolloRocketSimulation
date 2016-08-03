@@ -1,0 +1,15 @@
+/Users/slonej3/Projects/RocketSimulation/RocketSimulation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Projects/RocketSimulation/RocketSimulation/bin/Debug/RocketSimulation.exe.mdb
+/Users/slonej3/Projects/RocketSimulation/RocketSimulation/bin/Debug/RocketSimulation.exe
+/Users/slonej3/Projects/RocketSimulation/RocketSimulation/obj/x86/Debug/RocketSimulation.exe
+/Users/slonej3/Projects/RocketSimulation/RocketSimulation/obj/x86/Debug/RocketSimulation.exe.mdb
+/Users/slonej3/Desktop/Projects/F#/Ch1&2F#/RocketSimulation/RocketSimulation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Desktop/Projects/F#/Ch1&2F#/RocketSimulation/RocketSimulation/bin/Debug/RocketSimulation.exe.mdb
+/Users/slonej3/Desktop/Projects/F#/Ch1&2F#/RocketSimulation/RocketSimulation/bin/Debug/RocketSimulation.exe
+/Users/slonej3/Desktop/Projects/F#/Ch1&2F#/RocketSimulation/RocketSimulation/obj/x86/Debug/RocketSimulation.exe
+/Users/slonej3/Desktop/Projects/F#/Ch1&2F#/RocketSimulation/RocketSimulation/obj/x86/Debug/RocketSimulation.exe.mdb
+/Users/slonej3/Downloads/Ch1&2F#/RocketSimulation/RocketSimulation/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
+/Users/slonej3/Downloads/Ch1&2F#/RocketSimulation/RocketSimulation/bin/Debug/RocketSimulation.exe.mdb
+/Users/slonej3/Downloads/Ch1&2F#/RocketSimulation/RocketSimulation/bin/Debug/RocketSimulation.exe
+/Users/slonej3/Downloads/Ch1&2F#/RocketSimulation/RocketSimulation/obj/x86/Debug/RocketSimulation.exe
+/Users/slonej3/Downloads/Ch1&2F#/RocketSimulation/RocketSimulation/obj/x86/Debug/RocketSimulation.exe.mdb
